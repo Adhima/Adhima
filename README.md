@@ -32,6 +32,10 @@
 
 ###
 
+<p align="left">I'm Officially Student <br><br>- 🔭 I’m working as software and electrical engineer<br>- 📚 I'm currently learning everything about technology (especially AI)<br>- ⚡ Sometimes i become a gamer</p>
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -54,17 +58,7 @@
 
 ###
 
-<p align="left">I'm Officially Student <br><br>- 🔭 I’m working as software and electrical engineer<br>- 📚 I'm currently learning everything about technology (especially AI)<br>- ⚡ Sometimes i become a gamer</p>
-
-###
-
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Adhima&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
