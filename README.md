@@ -32,7 +32,6 @@
 
 ###
 
-<p align="left">I'm Officially Student <br><br>- 🔭 I’m working as software and electrical engineer<br>- 📚 I'm currently learning everything about technology (especially AI)<br>- ⚡ Sometimes i become a gamer</p>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -54,8 +53,10 @@
 </div>
 
 ###
-<p align = "left"> </p>
-### 
+
+<p align="left">I'm Officially Student <br><br>- 🔭 I’m working as software and electrical engineer<br>- 📚 I'm currently learning everything about technology (especially AI)<br>- ⚡ Sometimes i become a gamer</p>
+
+###
 
 <h3 align="left">🔥   My Stats :</h3>
 
