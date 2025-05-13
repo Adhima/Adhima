@@ -32,6 +32,7 @@
 
 ###
 
+<p align="left">I'm Officially Student <br><br>- 🔭 I’m working as software and electrical engineer<br>- 📚 I'm currently learning everything about technology (especially AI)<br>- ⚡ Sometimes i become a gamer</p>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -51,10 +52,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 </div>
-
-###
-
-<p align="left">I'm Officially Student <br><br>- 🔭 I’m working as software and electrical engineer<br>- 📚 I'm currently learning everything about technology (especially AI)<br>- ⚡ Sometimes i become a gamer</p>
 
 ###
 
